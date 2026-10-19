@@ -10,4 +10,4 @@ ADRs solve a common problem: architectural knowledge gets lost over time. Team m
 - Introduce changes that conflict with past reasoning
 - Fail to understand trade-offs when maintaining or evolving the system
 
-ADRs preserve this knowledge in a findable, durable, and approachable format.
+ADRs preserve this knowledge in a findable, durable, and approachable format
